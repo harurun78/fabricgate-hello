@@ -44,8 +44,8 @@ Checked before each publish:
 
 - [ ] `uv run build.py` gives the same sha256 on a second machine
 - [x] Written to a real Tang Nano 9K; the LEDs count (2026-11-15, openFPGALoader 0.12.0, SRAM)
-- [ ] `fabricgate push dist` to the `fabricgate` namespace
-- [ ] From a clean environment, the commands under "Use it" work
+- [x] `fabricgate push dist` to the `fabricgate` namespace (2026-11-16)
+- [x] From a clean environment, the commands under "Use it" work (2026-11-16, fabricgate 0.6.0: pull and verify; same sha256 as the build)
 
 ## License
 
