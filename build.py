@@ -68,7 +68,7 @@ version: {VERSION}
 summary: Hello FabricGate! — minimal reference design (LED counter on the Tang Nano 9K)
 license: MIT
 author: FabricGate Project
-repository: https://github.com/harurun78/fabricgate-hello
+repository: https://github.com/fabricgate/fabricgate-hello
 tags:
   - reference
   - hello
